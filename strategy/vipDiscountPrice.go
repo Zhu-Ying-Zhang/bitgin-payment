@@ -1,6 +1,6 @@
 package strategy
 
-import "github.com/Zhu-Ying-Zhang/bitgin-payment/utils"
+import "github.com/zhu-ying-zhang/bitgin-payment/utils"
 
 type VipDiscountPrice struct {
 	vip int

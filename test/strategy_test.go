@@ -3,9 +3,9 @@ package test
 import (
 	"testing"
 
-	"github.com/Zhu-Ying-Zhang/bitgin-payment/context"
-	"github.com/Zhu-Ying-Zhang/bitgin-payment/data"
-	"github.com/Zhu-Ying-Zhang/bitgin-payment/strategy"
+	"github.com/zhu-ying-zhang/bitgin-payment/context"
+	"github.com/zhu-ying-zhang/bitgin-payment/data"
+	"github.com/zhu-ying-zhang/bitgin-payment/strategy"
 )
 
 type User struct {

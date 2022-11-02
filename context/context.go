@@ -1,6 +1,6 @@
 package context
 
-import "github.com/Zhu-Ying-Zhang/bitgin-payment/strategy"
+import "github.com/zhu-ying-zhang/bitgin-payment/strategy"
 
 // TODO factory
 type Context struct {

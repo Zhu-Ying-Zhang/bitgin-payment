@@ -1,3 +1,3 @@
-module github.com/Zhu-Ying-Zhang/bitgin-payment
+module github.com/zhu-ying-zhang/bitgin-payment
 
 go 1.13
